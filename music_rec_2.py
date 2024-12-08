@@ -4,7 +4,7 @@ import random
 
 CLIENT_ID = "c1c46cd5a01c41148f9cd2f016693956"
 CLIENT_SECRET = "b5189dc035074d33b88b1ed2bd92adcd"
-REDIRECT_URI = "http://localhost:8551"
+REDIRECT_URI = "https://is8mrxddrtrwkdufntuhal.streamlit.app/"
 
 AUTH_URL = (
     f"https://accounts.spotify.com/authorize?client_id={CLIENT_ID}"
